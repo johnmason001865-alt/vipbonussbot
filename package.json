@@ -1,0 +1,12 @@
+{
+  "name": "vip-bonus-bot",
+  "version": "1.0.0",
+  "description": "Telegram VIP Bonus Bot",
+  "main": "netlify/functions/bot.js",
+  "scripts": {
+    "start": "netlify dev"
+  },
+  "dependencies": {
+    "telegraf": "^4.16.3"
+  }
+}
